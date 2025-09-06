@@ -18,9 +18,9 @@ It features secure login, product listings with categories, search, filters, car
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend**: React / Next.js (Web), React Native / Flutter (Mobile)  
+- **Frontend**: React / Next.js (Web), React Native   
 - **Backend**: Node.js (Express/NestJS) or Python (FastAPI/Django REST)  
-- **Database**: PostgreSQL / MySQL  
+- **Database**: Superbase  
 - **Auth**: JWT, secure password hashing  
 - **Storage**: Local / S3 (for images in future versions)  
 
