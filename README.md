@@ -13,7 +13,8 @@ It features secure login, product listings with categories, search, filters, car
 - **Listings (CRUD)**: Create, edit, delete, and view product listings  
 - **Browse & Discover**: Keyword search, category filters, product details  
 - **Cart & History**: Add to cart and view previous purchases  
-- **Responsive UI**: Mobile + Desktop ready  
+- **Responsive UI**: Mobile + Desktop ready
+- **AI CHAT BOT**: AI assistant for better suggestion and assisting.
 
 ---
 
